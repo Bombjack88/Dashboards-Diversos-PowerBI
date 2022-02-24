@@ -4,7 +4,7 @@ Alguns dos meus projectos.
 ## Dashboard de viagens dos colaboradores de uma empresa 
 A informação está disponível em vários documentos excel na mesma pasta.
 
-https://bit.ly/Dashboard_Viagens_Corporativas
+https://bit.ly/DashBoard_ViagensCorporativas
 
 ![image](https://user-images.githubusercontent.com/10911021/155413195-d29a393c-0820-44ff-9faf-3d5769d70e30.png)
 
